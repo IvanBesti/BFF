@@ -133,7 +133,7 @@ with container:
         st.session_state.button_clicked = True
         st.balloons()
         st.snow()
-        st.experimental_rerun()
+        st.rerun()
     
     # Display floating hearts animation when button is clicked
     if st.session_state.button_clicked:
