@@ -57,4 +57,4 @@ streamlit run app.py
 
 ---
 
-Made with ❤️ for someone special 
+Made with ❤️ for someone special
